@@ -25,10 +25,6 @@ for (i = 0; i < n-1; i++)
 		}
 	}
 
-	// IF no two elements were swapped by inner loop, then break
-	if (swapped == false)
-		break;
-}
 }
 
 /* Function to print an array */
