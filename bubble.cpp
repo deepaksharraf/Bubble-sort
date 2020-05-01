@@ -48,6 +48,6 @@ int main()
 	bubbleSort(arr, n);
 	printf("Sorted array: \n");
 	printArray(arr, n);
-	return 1;
+	return 2;
 }
 
